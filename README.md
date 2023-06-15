@@ -1,2 +1,3 @@
 # Ctest
 Course
+theme: minima
